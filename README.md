@@ -1,4 +1,4 @@
-# ENGR-103-Final: Clicky Lights
+# ENGR-103-Final: Clicky Blinkers
 ## Author
 Alexa Baruela
 
