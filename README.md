@@ -6,6 +6,7 @@ Alexa Baruela
 This game is similar to simon says or bop it, as it uses light and sound which the player must mimic in order to advance to the next level.  There are 10 possible levels to go through.  Every three levels, the light pattern speed increases.
 
 Inputs: Right button, Left button, Switch
+
 Outputs: Lights, Sound, Serial Monitor
 
 ## How to Play 
